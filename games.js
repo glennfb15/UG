@@ -3,9 +3,9 @@ name=games.js
 const games = [
     {
         id: 'game1',
-        title: 'Game 1',
+        title: 'Polytrack',
         description: 'Description of your first game',
-        url: 'REPLACE_WITH_EMBEDDED_URL_1'
+        url: 'https://t3m1n4l.github.io/polytrack/'
     },
     {
         id: 'game2',
